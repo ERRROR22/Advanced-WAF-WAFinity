@@ -134,7 +134,7 @@ Host: www.example.com
 
 bash
 ```
-git clone https://github.com/YOUR_USERNAME/Advanced-WAF-WAFinity.git
+git clone https://github.com/ERRROR22/Advanced-WAF-WAFinity.git [Ritik Sharma]
 ```
 ```
 cd Advanced-WAF-WAFinity
