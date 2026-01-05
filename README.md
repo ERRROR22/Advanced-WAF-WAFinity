@@ -134,7 +134,7 @@ Host: www.example.com
 
 bash
 ```
-git clone https://github.com/ERRROR22/Advanced-WAF-WAFinity.git [Ritik Sharma]
+git clone https://github.com/ERRROR22/Advanced-WAF-WAFinity.git 
 ```
 ```
 cd Advanced-WAF-WAFinity
@@ -163,3 +163,5 @@ MIT License
 git add README.md
 git commit -m "Add README.md"
 git push
+
+Designed By @Ritik Sharama.😑
