@@ -161,7 +161,10 @@ MIT License
 
 ## Add and commit README
 git add README.md
+
 git commit -m "Add README.md"
+
 git push
 
-Designed By @Ritik Sharama.😑
+
+Designed By @Ritik Sharma.😑
